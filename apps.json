@@ -1,0 +1,32 @@
+{
+  "name": "FZVE's Modded App Library",
+  "identifier": "xyz.fzve.ipalibrary",
+  "sourceURL": "https://raw.githubusercontent.com/possibiy/ios/main/apps.json",
+  "apps": [
+   {
+    "name": "YouTube",
+    "bundleIdentifier": "com.google.ios.youtube",
+    "developerName": "Anonymous",
+    "iconURL": "https://uyouplus.com/wp-content/uploads/2023/03/uyou-1.webp",
+    "versions": [
+        {
+            "version": "19.08.2",
+            "downloadURL": "https://your.download.url/YouTube.ipa",
+            "localizedDescription": "App version: 19.08.2\nStatus: ✅"
+        }
+      ]
+    },
+    {
+    "name": "MovieBoxPro",
+    "bundleIdentifier": "com.xd.mbp31",
+    "developerName": "Anonymous",
+    "iconURL": "https://bestforandroid.com/apk/wp-content/uploads/2021/03/moviebox-pro-featured-image.png",
+    "versions": [
+        {
+            "version": "13.9",
+            "downloadURL": "https://your.download.url/MovieBoxPro.ipa",
+            "localizedDescription": "App version: 13.9\nStatus: ✅"
+        }
+    ]
+    }
+}
