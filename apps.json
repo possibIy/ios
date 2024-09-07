@@ -11,7 +11,7 @@
     "versions": [
         {
             "version": "19.08.2",
-            "downloadURL": "https://your.download.url/YouTube.ipa",
+            "downloadURL": "https://github.com/possibIy/ios/releases/download/1.0.0/uYouPlus-19.08.2-3.0.3.ipa",
             "localizedDescription": "App version: 19.08.2\nStatus: ✅"
         }
       ]
@@ -24,7 +24,7 @@
     "versions": [
         {
             "version": "13.9",
-            "downloadURL": "https://your.download.url/MovieBoxPro.ipa",
+            "downloadURL": "https://github.com/possibIy/ios/releases/download/1.0.0/MovieBoxPro_13.9.ipa",
             "localizedDescription": "App version: 13.9\nStatus: ✅"
         }
     ]
